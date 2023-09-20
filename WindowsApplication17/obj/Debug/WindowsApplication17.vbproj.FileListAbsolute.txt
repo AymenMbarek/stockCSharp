@@ -1,0 +1,82 @@
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.exe.config
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.vbprojResolveAssemblyReference.cache
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.achat.resources
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.ArticleForm4.resources
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.client.resources
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.login.resources
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Form2.resources
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Form3.resources
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Resources.resources
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.vente.resources
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.vbproj.GenerateResource.Cache
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.exe
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.pdb
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.xml
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.exe
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.xml
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.pdb
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\bin\Debug\MySql.Data.dll
+C:\Users\Ezzedine\Desktop\bureau\WindowsApplication17\WindowsApplication17\bin\Debug\MySql.Data.xml
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\bin\Debug\WindowsApplication17.exe.config
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\obj\Debug\WindowsApplication17.exe
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\obj\Debug\WindowsApplication17.xml
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\obj\Debug\WindowsApplication17.pdb
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\bin\Debug\WindowsApplication17.exe
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\bin\Debug\WindowsApplication17.pdb
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\bin\Debug\WindowsApplication17.xml
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\obj\Debug\WindowsApplication17.vbprojResolveAssemblyReference.cache
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\obj\Debug\WindowsApplication17.achat.resources
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\obj\Debug\WindowsApplication17.ArticleForm4.resources
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\obj\Debug\WindowsApplication17.client.resources
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\obj\Debug\WindowsApplication17.login.resources
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\obj\Debug\WindowsApplication17.Form2.resources
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\obj\Debug\WindowsApplication17.Form3.resources
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\obj\Debug\WindowsApplication17.Resources.resources
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\obj\Debug\WindowsApplication17.vente.resources
+C:\Users\L E N O V O\Desktop\WindowsApplication17copy\WindowsApplication17\obj\Debug\WindowsApplication17.vbproj.GenerateResource.Cache
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\bin\Debug\WindowsApplication17.exe.config
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\obj\Debug\WindowsApplication17.exe
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\obj\Debug\WindowsApplication17.xml
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\obj\Debug\WindowsApplication17.pdb
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\obj\Debug\WindowsApplication17.vbprojResolveAssemblyReference.cache
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\obj\Debug\WindowsApplication17.achat.resources
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\obj\Debug\WindowsApplication17.ArticleForm4.resources
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\obj\Debug\WindowsApplication17.client.resources
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\obj\Debug\WindowsApplication17.login.resources
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\obj\Debug\WindowsApplication17.Form2.resources
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\obj\Debug\WindowsApplication17.Form3.resources
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\obj\Debug\WindowsApplication17.Resources.resources
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\obj\Debug\WindowsApplication17.vente.resources
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\obj\Debug\WindowsApplication17.vbproj.GenerateResource.Cache
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\bin\Debug\WindowsApplication17.exe
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\bin\Debug\WindowsApplication17.pdb
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\bin\Debug\WindowsApplication17.xml
+C:\Users\L E N O V O\Desktop\souhe vb\WindowsApplication17\bin\Debug\MySql.Data.xml
+C:\Users\Darkk\Desktop\h\WindowsApplication17\bin\Debug\WindowsApplication17.pdb
+C:\Users\Darkk\Desktop\h\WindowsApplication17\bin\Debug\WindowsApplication17.xml
+C:\Users\Darkk\Desktop\h\WindowsApplication17\bin\Debug\System.Memory.dll
+C:\Users\Darkk\Desktop\h\WindowsApplication17\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Darkk\Desktop\h\WindowsApplication17\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Darkk\Desktop\h\WindowsApplication17\bin\Debug\System.Buffers.dll
+C:\Users\Darkk\Desktop\h\WindowsApplication17\bin\Debug\MySql.Data.xml
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.vbproj.AssemblyReference.cache
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.achat.resources
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.ArticleForm4.resources
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.client.resources
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.login.resources
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.Form2.resources
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.Menu.resources
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.Resources.resources
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.vente.resources
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.vbproj.GenerateResource.cache
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.vbproj.CoreCompileInputs.cache
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.vbproj.CopyComplete
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.xml
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.pdb
+C:\Users\Darkk\Desktop\h\WindowsApplication17\bin\Debug\WindowsApplication17.exe.config
+C:\Users\Darkk\Desktop\h\WindowsApplication17\bin\Debug\WindowsApplication17.exe
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.exe
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.Form1.resources
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.produit_fini.resources
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.stockpf.resources
+C:\Users\Darkk\Desktop\h\WindowsApplication17\obj\Debug\WindowsApplication17.ButtonModifier.resources
